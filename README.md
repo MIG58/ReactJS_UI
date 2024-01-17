@@ -85,12 +85,30 @@
 6. **Open in Browser:**
    - Open your web browser and go to [http://localhost:3000/](http://localhost:3000/) to see your new React app.
 
-Now you have a new ReactJS project set up and running on your Windows or Linux machine. You can start building your React application!
 
 ***
 
 # My Installation Note
 
+## How to use Reactjs
+1. Install node.js https://nodejs.org/en/download/
+2. How to check node js install or not ( open cmd and type node -v )
+3. Install reactjs globally open cmd and type - 
+   ```js
+   npm i -g create-react-app
+   OR
+   npm install -g create-react-app
+   ```
+4. Install reactjs project ( npx create-react-app appName ) Note no any space and capital letter in app name but you can use underscore or hyphen
+`npx create-react-app firstproject`
+
 - The project folder cannot be of Capital Letter
 - `-` can be used `react-js` as folder name.
 - Bring Back lost Packages - `npm i`
+
+
+## Extensions - VSCODE
+
+- babel Javascript
+- Auto Rename Tag
+- 
