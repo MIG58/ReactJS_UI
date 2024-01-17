@@ -89,7 +89,8 @@ Now you have a new ReactJS project set up and running on your Windows or Linux m
 
 ***
 
-# ==My Installation Note==
+# My Installation Note
 
 - The project folder cannot be of Capital Letter
 - `-` can be used `react-js` as folder name.
+- Bring Back lost Packages - `npm i`
