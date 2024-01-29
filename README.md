@@ -135,3 +135,7 @@
 1st Part: <https://transcripts.gotomeeting.com/#/s/2b2d9d2dacb4975f9fa377bf6ee2a1b21618ad25eb5aebe666d5fa9df24dda39>
 
 2nd Part: <https://transcripts.gotomeeting.com/#/s/6477824738c7278e7d27e8e6e1a77be90784a86e46760ed6233cc2bacfcf7bf5>
+
+## Class 5
+
+<https://transcripts.gotomeeting.com/#/s/1aaffcf8228764b7c758c1970dc35985e3affc968869abcb4397502d86321089>
